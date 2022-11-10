@@ -1,7 +1,7 @@
 # McGill Physics Hackathon 2022: Lagrange Points Visualizer
+A visualizer for Lagrange points, a physical phenomenon, made as a team project for the 2022 McGill Physics Hackathon. See the [video demo](https://www.youtube.com/watch?v=nInSFXwB9PQ).
 
-A simple visualizer for a physical phenomenon called Lagrange points. This was a team project for the McGill Physics Hackathon 2022.  
-Here is a [video demo](https://www.youtube.com/watch?v=nInSFXwB9PQ).
+<img src="https://user-images.githubusercontent.com/43908636/201180084-6d02738a-08e7-4273-b647-775be5970a54.png" width="10000" />
 
 ## Authors
 - [Eric Deng](https://github.com/Lawnless1)
